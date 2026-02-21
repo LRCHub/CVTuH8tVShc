@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "「フォーマンセル」 Music Video ／ TOP4(キヨ・レトルト・牛沢・ガッチマン)",
+  "base_artist": "キヨ。",
+  "createdAt": "2026-02-21T18:50:53.565123Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フォーマンセル",
+      "artist": "キヨ, レトルト, 牛沢 & ガッチマン",
+      "has_synced": false,
+      "path": "select/pl_01_フォーマンセル_キヨ,_レトルト,_牛沢_&_ガッチマン.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "フォーマンセル",
+      "artist": "キヨ, レトルト, 牛沢 & ガッチマン",
+      "has_synced": false,
+      "path": "select/pl_02_フォーマンセル_キヨ,_レトルト,_牛沢_&_ガッチマン.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "フォーマンセル",
+      "artist": "キヨ, レトルト, 牛沢 & ガッチマン",
+      "has_synced": false,
+      "path": "select/pl_03_フォーマンセル_キヨ,_レトルト,_牛沢_&_ガッチマン.txt"
+    }
+  ]
+}
